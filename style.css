@@ -24,3 +24,20 @@ canvas {
     border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
 }
+ol{
+    text-align: justify;
+}
+.modal-dialog
+{
+    width: 70%;
+}
+.copy_right_footer{
+    position:fixed;
+    margin:0;
+    bottom: 0;
+    line-height: 3;
+    background-color: white;
+    color:grey;
+    width: 100%;
+    text-align: center;
+}
